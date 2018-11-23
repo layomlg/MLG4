@@ -122,7 +122,7 @@ a:hover {
 
 #sidebar ul a:hover,
 #sidebar .active > a {
-	background: #00aeff;
+	background: #002955;
 	color: #fff;
 }
 
@@ -135,7 +135,7 @@ a:hover {
 }
 
 #sidebar ul li.current {
-	background-color: #00aeff;
+	background-color: #002955;
 }
 
 #sidebar ul li.current a {

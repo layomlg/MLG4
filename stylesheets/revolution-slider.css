@@ -2475,7 +2475,7 @@ zoom: 1;
 
 .tp-leftarrow.square:hover:before,
 .tp-rightarrow.square:hover:before {
-	color: #00aeff;
+	color: #002955;
 	opacity: 1;
 	font-size: 30px;
 }
@@ -2527,7 +2527,7 @@ zoom: 1;
     left: 1.2px;
     font-size: 15px;
     display: inline-block;    
-    background: #00aeff;
+    background: #002955;
     color: #fff;    
     z-index: 1;
     -webkit-transition-duration: 0.3s;
@@ -2538,15 +2538,15 @@ zoom: 1;
 }
 
 .flat-button-slider.bg-button-slider-32bfc0 {
-	background: #00aeff;
+	background: #002955;
 }
 
 .flat-button-slider.bg-button-slider-32bfc0:hover {
-	background-color: #333;
+	background-color: #FF8600;
 }
 
 .flat-button-slider:hover {
-	background: #00aeff;
+	background: #002955;
 }
 
 .flat-button-slider:hover a {

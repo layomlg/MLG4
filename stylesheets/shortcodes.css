@@ -47,7 +47,7 @@
     font-weight: 600;
     display: inline-block;
     line-height: 1;
-    background: #00aeff;
+    background: #002955;
     color: #fff;
     cursor: pointer;    
     -webkit-transition: all ease .238s;
@@ -73,9 +73,9 @@
 }
 
 .flat-button.border {
-    border: 2px solid #00aeff;
+    border: 2px solid #002955;
     background-color: transparent;
-    color: #00aeff;
+    color: #002955;
     border-radius: 3px;
 }
 
@@ -106,11 +106,11 @@
     background-color: transparent;
     padding: 15px 42px;
     border-radius: 50px;
-    border-color: #00aeff;
+    border-color: #002955;
     border-style: solid;
     border-width: 2px;
     font-weight: 700;
-    color: #00aeff; 
+    color: #002955; 
 }
 
 .flat-button.border-radius-small {
@@ -164,7 +164,7 @@
 }
 
 .button-color.theme {
-    background: #00aeff;
+    background: #002955;
     color: #fff;
 }
 
@@ -208,7 +208,7 @@
 
 .flat-row.mail-chimp {
     padding: 35px 0;
-    background-color: #00aeff;
+    background-color: #002955;
     overflow: hidden;
 }
 
@@ -244,7 +244,7 @@
 }
 
 .flat-row.background-theme {   
-    background:  #00aeff;
+    background:  #002955;
 }
 
 .flat-row.offer {
@@ -348,7 +348,7 @@
 }
 
 .title-section .title span {
-    color: #00aeff;
+    color: #002955;
 }
 
 .title-section .sub-title {
@@ -445,7 +445,7 @@
 .iconbox .box-redmore {
     font-size: 14px;
     font-weight: 700;
-    color: #00aeff;
+    color: #002955;
     margin-top: 15px;
     display: block;
     position: relative;
@@ -517,17 +517,17 @@
 }
 
 .iconbox.images .box-title a:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .iconbox.images .box-redmore {
     padding: 10px 31px;
-    background: #00aeff;
+    background: #002955;
     border-radius: 25px;
     color: #fff;
     text-transform: capitalize;
     transition: all linear .3s;
-    border: 1px solid #00aeff;
+    border: 1px solid #002955;
     text-decoration: none;
     font-weight: 600;
     display: inline-block;
@@ -537,7 +537,7 @@
 .iconbox.images.services-style2 .box-redmore {
     background-color: transparent;
     border: 0;
-    color: #00aeff;
+    color: #002955;
     font-weight: 600;
     padding: 0 0;
     font-size: 14px;
@@ -619,7 +619,7 @@
     position: absolute;
     left: 0;
     top: -10px;
-    background-color: #00aeff;
+    background-color: #002955;
 }
 
 .iconbox.style2 .box-content .box-title a {
@@ -627,7 +627,7 @@
 }
 
 .iconbox.style2 .box-content .box-title a:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .iconbox.style2:hover .box-content {
@@ -641,7 +641,7 @@
 /* Style 3 */
 .iconbox.style3 img {
     margin-bottom: 20px;
-    border-bottom: 3px solid #00aeff;
+    border-bottom: 3px solid #002955;
 }
 
 /* Circle */
@@ -649,7 +649,7 @@
     width: 40px;
     height: 40px; 
     line-height: 40px;   
-    background-color: #00aeff;    
+    background-color: #002955;    
     border-radius: 100px;    
     padding: 0;
     font-size: 17px;
@@ -671,7 +671,7 @@
     width: 106px;
     height: 106px; 
     line-height: 106px;   
-    background-color: #00aeff;
+    background-color: #002955;
     border: 4px solid #fff;
     border-radius: 100px;    
     padding: 0;
@@ -685,13 +685,13 @@
 
 .iconbox.circle.lagre:hover .box-header i {
     background-color: #273039;
-    border: 4px solid #00aeff;
+    border: 4px solid #002955;
 }
 
 
 /* Square */
 .iconbox.square .box-header i {
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
     font-size: 28px;
 }
@@ -733,7 +733,7 @@
     height: 37px;
     line-height: 37px;
     border-radius: 3px;
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
     padding: 0;
     text-align: center;
@@ -766,7 +766,7 @@
     display: inline-block;
     min-width: 100px;
     text-align: center;
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
 }    
 
@@ -781,7 +781,7 @@
     height: 50px;
     line-height: 50px;
     border-radius: 3px;
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
     padding: 0;
     text-align: center;
@@ -837,9 +837,9 @@
 }
 
 .iconbox.center-circle-style1 .box-redmore:hover {
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
-    border: 1px solid #00aeff;
+    border: 1px solid #002955;
 }
 
 /* center-circle-style2 */
@@ -854,7 +854,7 @@
     left: 50%;
     margin-left: -50px;
     top: -50px;
-    background-color: #00aeff;
+    background-color: #002955;
     border: 5px solid #fff;
     width: 100px;
     height: 100px;
@@ -870,7 +870,7 @@
 .iconbox.circle.lagre.center-circle-style2:hover .box-header i {
     background-color: #273039;
     color: #fff;
-    border: 5px solid #00aeff;
+    border: 5px solid #002955;
 }
 
 .iconbox.center-circle-style2 .box-redmore {    
@@ -881,7 +881,7 @@
 }
 
 .iconbox.center-circle-style2 .box-redmore:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 /* flat-accordion
@@ -1001,7 +1001,7 @@
 }
 
 .flat-accordion.style2 .toggle-title span {
-    background: #00aeff;
+    background: #002955;
     width: 40px;
     height: 40px;
     left: 0;
@@ -1135,7 +1135,7 @@
 }
 
 .flat-accordion.style3 .toggle-title span {
-    background: #00aeff;
+    background: #002955;
     width: 40px;
     height: 40px;
     left: 0;
@@ -1231,9 +1231,9 @@
 }
 
 .flat-accordion.style5 .toggle-title.active {
-    background: #00aeff;
+    background: #002955;
     color: #fff;
-    border: 1px solid #00aeff;
+    border: 1px solid #002955;
 }
 
 .flat-accordion.style5 .toggle-content {
@@ -1352,7 +1352,7 @@
 }
 
 .flat-price-table .price {
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
     position: relative;
     padding: 25px 0;
@@ -1428,7 +1428,7 @@ ul.portfolio-filter li a {
 }
 
 ul.portfolio-filter li.active a {
-    color: #00aeff;
+    color: #002955;
     font-weight: 700;
 }
 
@@ -1439,7 +1439,7 @@ ul.portfolio-filter li a:after {
     content: "";
     width: 2px;
     height: 100%;
-    background: #00aeff;
+    background: #002955;
 }
 
 ul.portfolio-filter li:last-child a:after {
@@ -1511,7 +1511,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .flat-portfolio .item .project-title h3 a:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .flat-portfolio .item .project-redmore a {
@@ -1519,7 +1519,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .flat-portfolio .item .project-redmore a:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .flat-portfolio .item .overlay {
@@ -1576,7 +1576,7 @@ ul.portfolio-filter li:last-child a:after {
     left: -22px;
     width: 41px; 
     height: 50px;
-    background: #00aeff;
+    background: #002955;
     position: absolute;
     cursor: pointer;
     -webkit-transition: all 0.2s ease 0s;
@@ -1649,7 +1649,7 @@ ul.portfolio-filter li:last-child a:after {
 .blog-carosuel article a.read-more:after {
     width: 18px;
     height: 12px;
-    background: #00aeff;
+    background: #002955;
     font-family: "FontAwesome";
     content: "\f105";
     line-height: 12px;
@@ -1661,7 +1661,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .blog-carosuel article a.read-more:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .blog-carosuel article .featured-post .overlay {
@@ -1736,7 +1736,7 @@ ul.portfolio-filter li:last-child a:after {
     letter-spacing: 0.2px;
     font-size: 14px;
     font-weight: 600;
-    color: #00aeff;
+    color: #002955;
 }
 
 .blog-shortcode.style1 article .content-post .read-more a:hover,
@@ -1750,7 +1750,7 @@ ul.portfolio-filter li:last-child a:after {
     top: 0;
     font-family: "fontAwesome";
     content: "";
-    color: #00aeff;
+    color: #002955;
     content: "\f054";
     font-size: 12px;
 }
@@ -1914,7 +1914,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .testimonials.style2 blockquote:before {
-    color: #00aeff;
+    color: #002955;
     display: block !important;
     left: -20px;
     top: 0;
@@ -1973,7 +1973,7 @@ ul.portfolio-filter li:last-child a:after {
 
 .testimonials.style3 .message {
     margin-bottom: 20px;
-    background: #00aeff;
+    background: #002955;
     border-radius: 10px;
     border: 0;
     color: #fff;   
@@ -2003,7 +2003,7 @@ ul.portfolio-filter li:last-child a:after {
     bottom: -20px;
     border-style: solid;
     border-width: 10px 10px 10px 10px;
-    border-color: #00aeff transparent transparent transparent;    
+    border-color: #002955 transparent transparent transparent;    
     z-index: 998;   
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
@@ -2118,7 +2118,7 @@ ul.portfolio-filter li:last-child a:after {
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
-    background: #00aeff;
+    background: #002955;
     display: block !important;
     left: 44px;
     top: -25px;
@@ -2158,7 +2158,7 @@ ul.portfolio-filter li:last-child a:after {
     font-size: 14px;
     margin-bottom: 0;
     padding-top: 12px;
-    color: #00aeff;
+    color: #002955;
 }
 
 .testimonials.style5 .position {
@@ -2202,7 +2202,7 @@ ul.portfolio-filter li:last-child a:after {
     display: block;
     width: 40px;
     height: 40px;
-    background-color: #00aeff;
+    background-color: #002955;
     text-align: center;
     line-height: 40px;
     color: #fff;
@@ -2311,7 +2311,7 @@ ul.portfolio-filter li:last-child a:after {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
 }
 
@@ -2368,7 +2368,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .flat-team.style4 ul.social li a:hover {
-    color: #00aeff;
+    color: #002955;
 }
 
 .flat-team.style4 .avatar .overlay {
@@ -2460,7 +2460,7 @@ ul.portfolio-filter li:last-child a:after {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    background-color: #00aeff;
+    background-color: #002955;
     color: #fff;
 }
 
@@ -2509,7 +2509,7 @@ ul.portfolio-filter li:last-child a:after {
     position: absolute;
     top: 0;
     left: 20px;
-    background: #00aeff;
+    background: #002955;
     width: 60px;
     height: 5px;
     z-index: 10;
@@ -2584,7 +2584,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .title-box .title span {
-    color: #00aeff;
+    color: #002955;
 }
 
 .title-box p {
@@ -2607,7 +2607,7 @@ ul.flat-list li:before {
     top: 5px;
     width: 15px;
     height: 15px;
-    border: 2px solid #00aeff;
+    border: 2px solid #002955;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -2622,7 +2622,7 @@ ul.flat-list li:after {
     top: 10px;
     width: 5px;
     height: 5px;
-    background-color: #00aeff;
+    background-color: #002955;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -2638,7 +2638,7 @@ ul.flat-list.style2 li:before {
     top: 5px;
     width: 15px;
     height: 15px;
-    border: 1px solid #00aeff;
+    border: 1px solid #002955;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -2651,7 +2651,7 @@ ul.flat-list.style2 li:after {
     content: "\f00c";
     width: 0;
     height: 0;
-    color: #00aeff;
+    color: #002955;
     left: 3px;
     top: 1px;
     font-size: 9px;
@@ -2682,9 +2682,9 @@ ul.flat-list.use-icon li:after {
     height: 80px;
     text-align: center;
     line-height: 80px;
-    border: 2px solid #00aeff;
+    border: 2px solid #002955;
     border-radius: 50%;
-    color: #00aeff;
+    color: #002955;
     font-size: 20px;
     margin-bottom: 20px;
 }
@@ -2858,7 +2858,7 @@ ul.flat-list.use-icon li:after {
     border-radius: 3px;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    background-color: #00aeff;
+    background-color: #002955;
 }
 
 
