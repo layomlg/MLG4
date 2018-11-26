@@ -354,7 +354,7 @@ input[type="submit"] {
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   -moz-border-radius: 3px;
-  border-radius: 3px;
+  border-radius: 25px;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
   position: relative;
@@ -1251,7 +1251,7 @@ h4 {
 
 .breadcrumbs ul li a {
   font-size: 13px;
-  color: #ffffff;
+  color: #666666;
 }
 
 .breadcrumbs ul li a:hover {
@@ -1262,7 +1262,7 @@ h4 {
   position: absolute;
   right: -14px;
   top: 0;
-  color: #fff;
+  color: #FF8600;
   font-family: "FontAwesome";
   content: "\f105";
 }

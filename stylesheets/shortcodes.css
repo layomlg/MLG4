@@ -198,7 +198,7 @@
     clear: both;
     display: block;
     position: relative;
-    padding: 90px 0;    
+    padding: 40px 0;    
     overflow: hidden;
 }
 
@@ -1515,7 +1515,7 @@ ul.portfolio-filter li:last-child a:after {
 }
 
 .flat-portfolio .item .project-redmore a {
-    color: #fff;
+    color: #FF8600;
 }
 
 .flat-portfolio .item .project-redmore a:hover {
@@ -2785,7 +2785,7 @@ ul.flat-list.use-icon li:after {
 .flat-contact-info i {
     font-size: 36px;
     margin-bottom: 10px;
-    color: #273039;
+    color: #002955;
     display: inline-block;
 }
 
